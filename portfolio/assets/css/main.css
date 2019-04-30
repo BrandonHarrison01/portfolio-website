@@ -2158,8 +2158,8 @@ input, select, textarea {
 
 	#banner {
 		background: #CCE8F4 url("../../images/snow-mountains.jpg");
-		background-position: center center;
-		background-size: 100%;
+		background-position: center 30%;
+		background-size: auto;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
