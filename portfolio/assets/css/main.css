@@ -1998,7 +1998,7 @@ input, select, textarea {
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #d52349;
+			background-color: #23a2d5;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -2018,7 +2018,7 @@ input, select, textarea {
 				position: absolute;
 				bottom: -1.95em;
 				left: 0;
-				border-top: solid 2em #d52349;
+				border-top: solid 2em #23a2d5;
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
@@ -2058,9 +2058,10 @@ input, select, textarea {
 		#header h1 {
 			color: #252122;
 			font-weight: 900;
-			font-size: 2.5em;
+			font-size: 4rem;
 			letter-spacing: -0.035em;
 			line-height: 1;
+			font-family: 'Lobster', cursive;
 		}
 
 /* Nav */
@@ -2156,9 +2157,9 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #CCE8F4 url("../../images/snow-mountains.jpg");
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: 100%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
@@ -2181,7 +2182,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #23a2d5;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -2824,7 +2825,7 @@ input, select, textarea {
 				#header h1 {
 					color: #252122;
 					font-weight: 900;
-					font-size: 1.75em;
+					font-size: 2rem;
 					letter-spacing: -0.035em;
 				}
 
